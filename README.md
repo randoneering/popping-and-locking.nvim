@@ -1,9 +1,5 @@
 # popping-and-locking.nvim
 
-[![Neovim](https://img.shields.io/badge/Neovim-0.9%2B-57A143?logo=neovim&logoColor=white)](https://neovim.io/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/randoneering/popping-and-locking.nvim?style=social)](https://github.com/randoneering/popping-and-locking.nvim)
-
 A Neovim colorscheme based on the Popping and Locking palette used in the Zed theme.
 
 ## Screenshot
